@@ -1,0 +1,48 @@
+CS 3312 Lesson Plan - Project Management - Task Tracking
+
+Project Management:
+* Meeting minutes (we talked about these last week) due each week
+* Teams Setup - due 9/1
+* Team Charter - due 9/3
+* Iteration Plan draft - 9/3
+* Signed Client charter/Iteration Plan - 9/17
+
+* Github/ZenHub Setup - 9/3
+    * https://gatech.instructure.com/courses/208016/assignments/857806
+    * Add your CS instructor (swatson-phillips) to your Github Repository
+    * Make sure all of your team members can access your Github repository
+    * Install the Zenhub extension for Chrome or Firefox: https://www.zenhub.com/extension
+    * Add the milestones for each Sprint 1-5 with the due date set to be the last Sunday of the Sprint and enter your sprint goal
+    * Enter some (or all) of your issues and/or epics into Zenhub
+    * Submit a URL to your repo to this assignment
+
+**How to setup Github/ZenHub**
+* Discuss with your client if they are ok with a public repository
+
+* New Repo: Profile -> Repositories -> New (pick a meaningful short name and include team number)
+
+* What to track? Whatever works well for your team. Consider tracking ALL project tasks even those that are not software based.
+
+* Zenhub
+    * GitHub Guides - Mastering Issues: https://guides.github.com/features/issues/
+    * Using ZenHub Issues, Milestones, and Epics: https://www.youtube.com/watch?v=tJ375ju3xTc
+    * Estimating (Using ZenHub: planning poker for Teams using GitHub!): https://www.youtube.com/watch?v=4_oSM3iKAKc
+    * Pipeline
+        * Default: New, IceBox, Product Backlog, Sprint Backlog, In Progress, In Review, Done, Closed
+        * Minimum: New or IceBox, Sprint Backlog, In Progress, Done or Closed
+    * Add all 5 milestones (with end dates)
+    * Enter in the user stories as Epics
+    * Make sure to estimate points and decompose into smaller tasks
+
+* Reports -> Examples
+
+* Common comments:
+You need to be updating ticket more regularly but good job on doing some tracking within ZenHub.
+
+You may need to break your tickets down into smaller tasks.
+
+It also appears that not all team members are updating tickets regularly. Please make sure tickets are assigned to and updated by ALL team members.
+
+Good Job! Make sure you continue to have all team members updating tickets in ZenHub.
+
+Make sure you are including estimated story points on your issues.
