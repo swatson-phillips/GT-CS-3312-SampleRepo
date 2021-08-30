@@ -8,10 +8,9 @@ Project Management:
 * Signed Client charter/Iteration Plan - 9/17
 
 * Github/ZenHub Setup - 9/3
-    * https://gatech.instructure.com/courses/208016/assignments/857806
     * Add your CS instructor (swatson-phillips) to your Github Repository
     * Make sure all of your team members can access your Github repository
-    * Install the Zenhub extension for Chrome or Firefox: https://www.zenhub.com/extension
+    * Install the Zenhub extension for Chrome or Firefox: https://www.zenhub.com/extension 
     * Add the milestones for each Sprint 1-5 with the due date set to be the last Sunday of the Sprint and enter your sprint goal
     * Enter some (or all) of your issues and/or epics into Zenhub
     * Submit a URL to your repo to this assignment
