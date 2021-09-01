@@ -12,6 +12,7 @@ What is Software Architecture?
 
 Detailed Design Assignment
     * Read assignment and come up with 1 question, thought, observation per team about the assignment.
+    * Who is the audience? 
     * Conversion from wiki to Word Doc.
     * How do you "Support the analysis of the architecture and design."?
     * Terminology
