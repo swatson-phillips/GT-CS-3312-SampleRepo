@@ -1,0 +1,33 @@
+CS 3312 Lesson Plan - Detailed Design Part 1
+
+"Stand up" status meeting
+    * What have you done?
+    * What are you doing?
+    * What will you do next?
+
+What is Software Architecture?
+    * Design patterns vs Architecture?
+    * Technologies vs Architecture?
+    * What are some good design principles?
+
+Detailed Design Assignment
+    * Read assignment and come up with 1 question, thought, observation per team about the assignment.
+    * Conversion from wiki to Word Doc.
+    * How do you "Support the analysis of the architecture and design."?
+    * Terminology
+        * domain
+        * technical
+        * order
+    * Tools for diagraming
+    * Peer review of Detailed Design
+    * Collaboration
+    * Part 1:
+        * Cover page
+        * TOC
+        * Terms
+
+Formatting Word Documents
+    * Using Styles
+    * Editing styles
+    * Creating Styles
+    * Inserting a TOC
