@@ -23,8 +23,9 @@ Project Management:
 
 * What to track? Whatever works well for your team. Consider tracking ALL project tasks even those that are not software based.
 
-* Zenhub
+* Github/Zenhub
     * GitHub Guides - Mastering Issues: https://guides.github.com/features/issues/
+    * Github Docs - GitHub Issues -> Labels and milestones -> Create & edit milestones: https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/creating-and-editing-milestones-for-issues-and-pull-requests
     * Using ZenHub Issues, Milestones, and Epics: https://www.youtube.com/watch?v=tJ375ju3xTc
     * Estimating (Using ZenHub: planning poker for Teams using GitHub!): https://www.youtube.com/watch?v=4_oSM3iKAKc
     * Pipeline
