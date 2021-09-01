@@ -6,13 +6,15 @@ CS 3312 Lesson Plan - Detailed Design Part 1
     * What will you do next?
 
 What is Software Architecture?
+    * Design vs Architecture?
     * Design patterns vs Architecture?
+    * https://www.oreilly.com/radar/contrasting-architecture-patterns-with-design-patterns/
     * Technologies vs Architecture?
     * What are some good design principles?
 
 Detailed Design Assignment
     * Read assignment and come up with 1 question, thought, observation per team about the assignment.
-    * Who is the audience? 
+    * Who is the audience?
     * Conversion from wiki to Word Doc.
     * How do you "Support the analysis of the architecture and design."?
     * Terminology
@@ -26,6 +28,7 @@ Detailed Design Assignment
         * Cover page
         * TOC
         * Terms
+        * Introduction
 
 Formatting Word Documents
     * Using Styles
