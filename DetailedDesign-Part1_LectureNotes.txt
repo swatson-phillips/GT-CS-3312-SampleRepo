@@ -21,7 +21,7 @@ Detailed Design Assignment
         * Cover page
         * TOC
         * Terms
-        * Introduction
+        * Introduction:
 
 Formatting Word Documents
     * Using Styles
@@ -29,6 +29,7 @@ Formatting Word Documents
     * Creating Styles
     * Inserting a TOC
 
+(this section moved to the end for JIB)
 What is Software Architecture? (sneak peak of what's ahead)
     * Design vs Architecture?
     * Design patterns vs Architecture?
