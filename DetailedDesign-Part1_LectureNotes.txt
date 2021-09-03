@@ -28,6 +28,7 @@ Formatting Word Documents
     * Editing styles
     * Creating Styles
     * Inserting a TOC
+    * How To: Create a Clickable Table of Contents (TOC) https://academicsuccess.ucf.edu/wp-content/uploads/sites/22/2020/04/Creating_Clickable_Table_of_Content_Word_PC_and_Mac.pdf
 
 (this section moved to the end for JIB)
 What is Software Architecture? (sneak peak of what's ahead)
