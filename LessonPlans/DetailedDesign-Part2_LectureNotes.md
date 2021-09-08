@@ -6,10 +6,10 @@
         * An easy way to think about the difference between architecture
         and design is to consider the architecture of an office building as
         compared with its interior design.
-        * https://simplicable.com/new/architecture-vs-design
+        * [architecture vs design](https://simplicable.com/new/architecture-vs-design)
     * Design patterns vs Architecture?
         * level of detail
-        * https://www.oreilly.com/radar/contrasting-architecture-patterns-with-design-patterns/
+        * (https://www.oreilly.com/radar/contrasting-architecture-patterns-with-design-patterns/)
     * Technologies vs Architecture?
     * Common Architecture Patterns
         * https://youtu.be/BrT3AO8bVQY
