@@ -1,0 +1,19 @@
+Technical and domain terminology looks good, continue to build out terms and acronyms as needed.
+
+Very light in both technical and domain terms, continue to build out terms and acronyms as needed. This will not result in Mature score.
+
+Some of you definition appear to be incomplete.
+
+A bit light in definitions and some acronyms are not clearly defined (i.e. where the letters come from)
+
+Make sure to alphabetize you entries.
+
+Make sure that your document is uniformly formatted, it looks like it currently is not.
+
+Also consider more clearly delineating the words and the definition especially when the definition flows onto the next line.
+
+Nice job delineating your terms by indenting the lines.
+
+You should be building you completed Detailed Design Document throughout the semester, section by section including this one.
+
+All of your documents should be hosted in your MS Teams/sharepoint and not in Canvas. Make sure you put your detailed design document in Teams and submit a link to it there.
