@@ -2,9 +2,9 @@
 
 ----
 # Suzy Watson-Phillips
-- 10++ yr industry experience
-- started teaching course in 2015 via a shared appointment with GTRI
-- provides anecdotal
+- 10++ yr industry software development experience
+- started teaching course in 2015 via a shared appointment with GTRI (have seen it's evolution)
+- provides anecdotal information of the importance of the course topics
 
 # Documenting Technical Design
 - Traditional Detailed Design Document
