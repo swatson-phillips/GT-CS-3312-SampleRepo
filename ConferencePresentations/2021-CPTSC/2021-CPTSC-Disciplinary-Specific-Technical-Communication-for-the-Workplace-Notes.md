@@ -3,6 +3,8 @@
 # Disciplinary Specific Technical Communication for the Workplace
 
 ----
+<img src="https://user-images.githubusercontent.com/49889272/139345932-c5fbeff4-dc58-4b47-9d9c-76226499829b.jpg" alt="Suzy" style="width:200px;"/>
+
 # Suzy Watson-Phillips
 - B.S. and M.S. in Computer Science
 - 10++ yr industry software development experience
@@ -25,8 +27,9 @@
 - Remote Whiteboarding: [Padlet](https://padlet.com/), [Pinup](https://pinup.com/), [Stormboard](https://stormboard.com/), [Miro](https://miro.com/online-whiteboard/)
 - Versioning: [Github](https://github.com/)
 - Tasking: [Zenhub](https://www.zenhub.com/) - integrates with github
-- Markdown and README files
-- 
+- Markdown and README files (this file)
+- Prototyping: [Figma](https://www.figma.com/)
+- UML (Software) Diagraming: [Argo UML](https://github.com/argouml-tigris-org/argouml/wiki), [Visual-Paradigm](https://www.visual-paradigm.com/download/community.jsp)
 
 # Communicating with Clients
 - students have to learn some basic communication skills like composing a professional email, writing a meeting agenda and taking meeting notes (any WHY)
