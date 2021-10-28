@@ -2,9 +2,10 @@
 
 ----
 # Suzy Watson-Phillips
-- >10 yr industry experience
+- 10++ yr industry experience
 - started teaching course in 2015 via a shared appointment with GTRI
-- 
+- provides anecdotal
+
 # Documenting Technical Design
 - Traditional Detailed Design Document
   - heavy weight document with lots of detail and requirement
