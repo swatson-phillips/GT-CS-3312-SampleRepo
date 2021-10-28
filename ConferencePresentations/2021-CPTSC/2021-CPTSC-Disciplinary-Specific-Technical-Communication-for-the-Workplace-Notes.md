@@ -4,6 +4,7 @@
 
 ----
 # Suzy Watson-Phillips
+- B.S. and M.S. in Computer Science
 - 10++ yr industry software development experience
 - started teaching course in 2015 via a shared appointment with GTRI (have seen it's evolution)
 - provides anecdotal information of the importance of the course topics
