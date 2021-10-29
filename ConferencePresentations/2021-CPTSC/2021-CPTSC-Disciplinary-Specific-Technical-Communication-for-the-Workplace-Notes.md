@@ -73,17 +73,19 @@ Architecture Diagram
   - provided easy mechanism for qick video calls to enhance the remote experience
 
 # Documenting Technical Design
-- Traditional Detailed Design Document
-  - heavy weight document with lots of detail and requirement
-  - multiple views of the system
-  - done before coding
-  - students (and instructors) HATED it, it felt a lot like a throw-away assignment
+## Traditional Detailed Design Document
+ - heavy weight document with lots of detail and requirement
+ - multiple views of the system
+ - done before coding
+ - students (and instructors) HATED it, it felt a lot like a throw-away assignment
 
 ![High Level Design and Detailed Design](https://connected-corridors.berkeley.edu/sites/default/files/styles/panopoly_image_original/public/semp_design_doc.png)
 
 [High Level Design and Detailed Design](https://connected-corridors.berkeley.edu/guiding-project-systems-engineering-process/developing-system/icm-system-architecture-and-design)
- - Our Detailed Design Document version 2 (piloted Fall 2020)
-  - based on the Agile Software development methodology
-  - iterative writing of the design document
-  - multiple views of the system that are updated as the system is developed
-  - opportunity for refinement of the design and the document why learning how to communicate technical designs in writing at an appropriate level of detail
+## Our (new) Detailed Design Document (first piloted Fall 2020)
+ - based on the Agile Software development methodology
+ - iterative writing of the design document
+ - multiple views of the system that are updated as the system is developed
+ - opportunity for refinement of the design and the document why learning how to communicate technical designs in writing at an appropriate level of detail
+ - What tool to use to host this??? Canvas? MS Teams wiki? Simple Word doc?
+ - How do you grade this? iterativly? at the end? hybrid?
