@@ -13,6 +13,7 @@
 - started full time instruction with DCI on Spring 2019
 - provides students with anecdotal information of the importance of the course topics
 - [Bio Sketch](https://github.com/swatson-phillips/GT-CS-3312-SampleRepo/blob/master/Suzy%20Watson-Phillips%20Professional%20Bio%20Sketch.md)
+- suzy.watson-phillips @ gatech.edu
  
  # ... in the time of covid
  ## Changes
