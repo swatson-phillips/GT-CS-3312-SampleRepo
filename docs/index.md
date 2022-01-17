@@ -6,5 +6,6 @@ Welcome to Instructor [Suzy Watson-Phillips'](https://github.com/swatson-phillip
 
 # Lesson Plans
 
-- [Lesson Plan Day 1](lessonPlans/LessonPlan_Day1.html)
-- [Lesson Plan Team Setup - Organization and Meetings](lessonPlans/LessonPlan_TeamSetup.html)
+- [Lesson Plan Day 1](lessonPlans/D1-LessonPlan_Day1.html)
+- [Lesson Plan Team Setup - Organization and Meetings](lessonPlans/D2-LessonPlan_TeamSetup.html)
+- [Lesson Plan Project Management and Demo Videos](lessonPlans/D3-LessonPlan-ProjectManagement-VideoDemo.html)
