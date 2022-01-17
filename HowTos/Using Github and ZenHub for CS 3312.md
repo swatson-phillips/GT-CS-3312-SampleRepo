@@ -4,7 +4,7 @@
 * Make sure all of your team members can access your Github repository
 * Install the Zenhub [extension for Chrome or Firefox](https://www.zenhub.com/extension)
 * ~~Add the milestones for each Sprint 1-5 with the due date set to be the last Sunday of the Sprint and enter your sprint goal~~ Zenhub no longer supports milestones so we will use Sprints, more info to come...
-* Enter some (or all) of your issues and/or epics into Zenhub
+* Enter all of your user stories as epics into Zenhub
 * Add you CS instructor to your [ZenHub Team](https://help.zenhub.com/support/solutions/articles/43000035792-inviting-your-team-to-zenhub)
 * Submit a URL to your repo to this assignment
 
