@@ -13,4 +13,4 @@ See Canvas assignments for dates (usually Sunday at 11:59pm)
 * M.S. Teams Setup (this Sunday)
 * Meeting Agenda - week 1 (this Sunday, you can turn in early)
 
-# [Notes](LessonPlan_TeamSetup_notes.html)
+# [Notes](notes/2022-01/LessonPlan_TeamSetup_notes.html)
