@@ -9,7 +9,7 @@
     4. Iteration Plan
 
 * How to use DocuSign
-    * https://esignature.gatech.edu
+    * [https://esignature.gatech.edu](https://esignature.gatech.edu)
     * Click "Start" and "Send an Envelope"
     * Click "Upload" and select the client charter
     * Fill in the signers: your client, yourself, and your instructor
@@ -56,7 +56,7 @@ Let's see a demo!
 
 # Resources
 * [Technical Documentation in Software Development: Types, Best Practices, and Tools](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
-* [Video Demo Slide Deck](https://www.canva.com/design/DAEoggV5GWs/y5WV80qwM6q3XfMikXipuQ/view?utm_content=DAEoggV5GWs&amp;utm_campaign=designshare&amp;utm_medium=link&amp;utm_source=sharebutton)
+* [Video Demo Slide Deck](https://www.canva.com/design/DAEoggV5GWs/share/preview?token=bZQ7o1pfC_WX4gkcqRsyyA&role=EDITOR&utm_content=DAEoggV5GWs&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 * Client Charter Instructions.pdf (Canvas)
 * Client Interaction Guidelines.pdf (Canvas)
 * cs3312_ClientInteractions.pdf (Canvas)
