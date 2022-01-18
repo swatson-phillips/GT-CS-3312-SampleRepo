@@ -2,11 +2,24 @@
 ## Project Management
 
 ### Client Charter
-Review of key changes:
-1. Add/remove team members
-2. IP/licence
-3. table 2 - deliverables
-4. Iteration Plan
+* Review of key changes:
+    1. Add/remove team members
+    2. IP/licence
+    3. table 2 - deliverables
+    4. Iteration Plan
+
+* How to use DocuSign
+    * https://esignature.gatech.edu
+    * Click "Start" and "Send an Envelope"
+    * Click "Upload" and select the client charter
+    * Fill in the signers: your client, yourself, and your instructor
+    * Set the signing order so that it is you, then your client, then your instructor (Suzy.watson-phillips@cc.gatech.edu)
+    * Click next
+    * Drag over the appropriate fields
+    * Make sure to preview a your client!
+
+Let's see a demo!
+
 
 ### Iteration Plan (Draft)
 * Divide your user stories from part 1 into Sprints keeping in mind that Sprints 1 and 5 will be lighter but still deliver functionality
