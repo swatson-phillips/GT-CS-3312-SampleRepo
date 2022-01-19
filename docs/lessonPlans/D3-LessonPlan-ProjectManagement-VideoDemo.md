@@ -1,6 +1,7 @@
 # Topics
 ## Project Management
 [Dilbert - Project Management Zombie](https://dilbert.com/strip/2006-02-11)
+[Dilbert -  No more planning and no more documentation](https://dilbert.com/strip/2007-11-26)
 ### Client Charter
 * Review of key changes:
     1. Add/remove team members
