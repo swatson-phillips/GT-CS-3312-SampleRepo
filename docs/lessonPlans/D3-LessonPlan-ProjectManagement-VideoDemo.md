@@ -1,8 +1,20 @@
 # Topics
+
+## Introduce Video Demos Assignments
+* At the end of Sprints 1, 2, and 3
+* Primary audience is your Client
+* Review assignment sheet and rubric + lecuture slides
+
 ## Project Management
 [Dilbert - Project Management Zombie](https://dilbert.com/strip/2006-02-11)
 
 [Dilbert -  No more planning and no more documentation](https://dilbert.com/strip/2007-11-26)
+
+### Client Management and Expectations
+* What are some client hurtles that you have already encountered? How can you mitigate those?
+* Review Tombstone poster
+* **Be mindful of scope creep** and be realistic
+
 ### Client Charter
 * Review of key changes:
     1. Add/remove team members
@@ -20,8 +32,7 @@
     * Drag over the appropriate fields
     * Make sure to preview a your client!
 
-Let's see a demo!
-
+Let's see a demo! (video)
 
 ### Iteration Plan (Draft)
 * Divide your user stories from part 1 into Sprints keeping in mind that Sprints 1 and 5 will be lighter but still deliver functionality
@@ -43,18 +54,8 @@ Let's see a demo!
     * New Repo: Profile -> Repositories -> New (pick a meaningful short name and include team number)
     * What to track? Whatever works well for your team. Consider tracking **ALL  project tasks** even those that are not software based.
     * Check out my page on [Using ZenHub for free for this class](https://github.com/swatson-phillips/GT-CS-3312-WP/blob/master/HowTos/Using%20Github%20and%20ZenHub%20for%20CS%203312.md)
-*  Let's walk through a ZenHub board and Setup
 
-
-### Client Management and Expectations
-* What are some client hurtles that you have already encountered? How can you mitigate those?
-* Review Tombstone poster
-* **Be mindful of scope creep** and be realistic
-
-## Introduce Video Demos Assignments
-* At the end of Sprints 1, 2, and 3
-* Primary audience is your Client
-* Review assignment sheet and rubric
+*  Let's walk through a ZenHub board and Setup (video)
 
 # Resources
 * [Technical Documentation in Software Development: Types, Best Practices, and Tools](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
