@@ -12,8 +12,11 @@
 
 ### Client Management and Expectations
 * What are some client hurtles that you have already encountered? How can you mitigate those?
+* Review Agile Manifesto poster
 * Review Tombstone poster
 * **Be mindful of scope creep** and be realistic
+* Be accepting of client requests but make sure they understand wht tradeoffs
+* **Make sure the expectations on both sides are clear**
 
 ### Client Charter
 * Review of key changes:
