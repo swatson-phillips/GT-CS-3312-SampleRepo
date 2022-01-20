@@ -32,10 +32,16 @@ After you have setup your repository(s) for your project, you will need to setup
 2. Modify your Board Pipelines to those that will help your team track issue statuses
     * Default: New, IceBox, Product Backlog, Sprint Backlog, In Progress, In Review, Done, Closed
     * Minimum: New or IceBox, Sprint Backlog, In Progress, Done or Closed
+
+![image](https://user-images.githubusercontent.com/49889272/150420803-4bf8f5af-f814-4a85-a581-1f05724be530.png)
+
 3. Setup sprints
     * set the start date for the first Sprint to be the first day of the semester (a Monday)
     * set the end date for the Sunday 3 weeks later
     * [Getting Started With ZenHub Sprints](https://help.zenhub.com/support/solutions/articles/43000616465-getting-started-with-zenhub-sprints)
+
+![image](https://user-images.githubusercontent.com/49889272/150420914-5acc7ef2-b444-4016-ab08-e3bf8e836198.png)
+
 4. Enter **all** user stories as Epics
     * The title should the the story (As a user... I want to...)
     * Assign the epics to Sprints for the first 3 Sprints
@@ -49,6 +55,8 @@ After you have setup your repository(s) for your project, you will need to setup
 6. (Optional) Create your releases
     * Only do this is you are planning on using the Release report to link to from your Release Notes
     * You will probably have the following releases this semester: 0.1.0, 0.2.0, 0.3.0, 0.4.0, 1.0.0
+
+(tip) There are a lot of keyboard shortcuts that you can learn to move more quickly. You can find them here: [ZenHub Shortcuts](https://app.zenhub.com/dashboard/shortcuts)
 
 # ZenHub Reports
 I will look at some of the ZenHub reports for insight into your project and task tracking when I grade for project tracking (mid-term and end of semester). There is lots of information about each of the reports in the ZenHub Help Center. [ZebHub Reports and gathering insights](https://help.zenhub.com/support/solutions/43000042876)
