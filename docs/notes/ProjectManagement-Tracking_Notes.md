@@ -8,6 +8,8 @@ CS 3312 - Github/ZenHub Setup
 * Add you CS instructor to your ZenHub Team, [Inviting Your Team to ZenHub](https://help.zenhub.com/support/solutions/articles/43000035792-inviting-your-team-to-zenhub)
 * Submit a URL to your repo to the assignment
 
+![ZenHub_OpenInWebApp](https://user-images.githubusercontent.com/49889272/150419838-9013e2f2-dc26-4348-b622-ebe519e083ed.png)
+
 # Getting started
 * Discuss with your client if they are ok with a **public repository**
 * New Repo: Profile -> Repositories -> New (pick a meaningful short name and ***include team number***)
