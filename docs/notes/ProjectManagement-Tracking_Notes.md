@@ -1,4 +1,7 @@
-CS 3312 - Github/ZenHub Setup
+---
+# CS 3312 - Github/ZenHub Setup
+---
+
 # Assignment Info
 * Add your CS instructor (swatson-phillips) and TA to your Github Repository
 * Make sure all of your team members can access your Github repository
