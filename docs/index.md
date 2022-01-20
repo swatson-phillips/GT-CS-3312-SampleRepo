@@ -11,4 +11,4 @@ Welcome to Instructor [Suzy Watson-Phillips'](https://github.com/swatson-phillip
 - [Lesson Plan Project Management and Demo Videos](lessonPlans/D3-LessonPlan-ProjectManagement-VideoDemo.html)
 
 # HowTos and Instructions
-- [Project Management - Tracking_Notes](notes/ProjectManagement-Tracking_Notes.html)
+- [Project Management - Tracking Notes](notes/ProjectManagement-Tracking_Notes.html)
