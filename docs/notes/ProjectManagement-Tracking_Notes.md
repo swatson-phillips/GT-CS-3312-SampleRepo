@@ -5,8 +5,10 @@ CS 3312 - Github/ZenHub Setup
 * Install the Zenhub extension for Chrome or Firefox: https://www.zenhub.com/extension
 * Setup your Sprints for this semester (not milestones). Your first Sprint should have a start date of 2022-01-10 (Mon.) and an end date of 2022-01-30 (Sun.). See [Getting Started With ZenHub Sprints](https://help.zenhub.com/support/solutions/articles/43000616465-getting-started-with-zenhub-sprints) for more info.
 * Enter **all of your user stories as epics** into Zenhub
-* Add you CS instructor to your ZenHub Team, [Inviting Your Team to ZenHub](https://help.zenhub.com/support/solutions/articles/43000035792-inviting-your-team-to-zenhub)
-* Submit a URL to your repo to the assignment
+* Make sure all team members can update and create issues in the ZenHub workspace.
+* Add you CS instructor and TA to your ZenHub Team, [Inviting Your Team to ZenHub](https://help.zenhub.com/support/solutions/articles/43000035792-inviting-your-team-to-zenhub)
+* Submit a URL to your ZenHub workspace to the assignment
+(click on "Open in web app" in the left bottom navigation window to get the URL to the workspace)
 
 ![ZenHub_OpenInWebApp](https://user-images.githubusercontent.com/49889272/150419838-9013e2f2-dc26-4348-b622-ebe519e083ed.png)
 
@@ -54,8 +56,8 @@ I will look at some of the ZenHub reports for insight into your project and task
     * [Reading Cumulative Flow Diagrams](https://help.zenhub.com/support/solutions/articles/43000038850-reading-cumulative-flow-diagrams)
     * [Example Cumulative Flow Diagrams to learn from](https://help.zenhub.com/support/solutions/articles/43000469850-example-cumulative-flow-diagrams-to-learn-from)
 * Burndown Chart: track velocity during short sprints of work
-    *[Track Sprint Progress With Burndown Charts](https://help.zenhub.com/support/solutions/articles/43000010356-track-sprint-progress-with-burndown-charts)
-    *[How Burndown and Velocity compliment each other](https://help.zenhub.com/support/solutions/articles/43000483134-how-burndown-and-velocity-compliment-each-other)
+    * [Track Sprint Progress With Burndown Charts](https://help.zenhub.com/support/solutions/articles/43000010356-track-sprint-progress-with-burndown-charts)
+    * [How Burndown and Velocity compliment each other](https://help.zenhub.com/support/solutions/articles/43000483134-how-burndown-and-velocity-compliment-each-other)
 * Release Report: manage scope changes across long-term projects
     * [Plan Long-Term Projects with Release Reports](https://help.zenhub.com/support/solutions/articles/43000010359-plan-long-term-projects-with-release-reports)
     * You can play with this report but because this is a shorter term project with 1 major release, I won't be requiring it.
