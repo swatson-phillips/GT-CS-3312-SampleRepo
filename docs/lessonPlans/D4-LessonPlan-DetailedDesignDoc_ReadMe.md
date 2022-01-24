@@ -15,6 +15,7 @@
 * Sample Detailed Design.docx
 
 ## Detailed Design Document Part 2: System Architecture
+![Klaus Views](../logo.jpg)
 * High level view of your system
 * Must have a static and dynamic view
 * cs3312_DetailDesign.pdf & DetailedDesignReport-2019-9-28.pptx
