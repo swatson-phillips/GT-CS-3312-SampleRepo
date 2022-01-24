@@ -3,7 +3,7 @@ Welcome to Instructor [Suzy Watson-Phillips'](https://github.com/swatson-phillip
 - [WP's Professional Bio](https://github.com/swatson-phillips/GT-CS-3312-WP/blob/master/Suzy%20Watson-Phillips%20Professional%20Bio%20Sketch.md)
 - [My Zenhub Board](https://app.zenhub.com/workspaces/cs-3312-sample-5e160808edee2184ecaa76c4/board?repos=232610911)
 - [Public Sample Repo](https://github.com/swatson-phillips/GT-CS-3312-WP)
-- [Links to Funnies](/resources/funnies.html)
+- [Links to Funnies](resources/funnies.html)
 
 # Lesson Plans
 - [Lesson Plan Day 1](lessonPlans/D1-LessonPlan_Day1.html)
