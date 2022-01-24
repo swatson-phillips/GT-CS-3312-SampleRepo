@@ -3,7 +3,7 @@
 ## Introduce Video Demos Assignments
 * At the end of Sprints 1, 2, and 3
 * Primary audience is your Client
-* Review assignment sheet and rubric + lecuture slides
+* Review assignment sheet and rubric + lecture slides
 
 ## Project Management
 [Dilbert - Project Management Zombie](https://dilbert.com/strip/2006-02-11)
