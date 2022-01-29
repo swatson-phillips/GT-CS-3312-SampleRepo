@@ -1,0 +1,12 @@
+Your setup looks good!
+
+Make sure to continue to enter issues and track progress.
+
+Also, please make sure to close your milestones at the end of each Sprint also (this will help with reporting).
+
+Consider removing Pipelines that your team doesn't need to track your issues progress.
+
+Make sure that you are tracking your issue progress.
+
+
+ Please make sure that I am added to your Zenhub workspace, when I click on the Zenhub tab, I am prompted to create a workspace. If you have already added me, please past the link to the workspace as a comment here on this assignment.
