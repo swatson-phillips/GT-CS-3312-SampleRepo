@@ -14,7 +14,7 @@ You may want to got through this article on [Getting Started with ZenHub](https:
 
 # Using ZenHub for Free
 
-Here are the ways that you can use ZenHub for free for academic use.
+Here are the ways that you can use ZenHub for free for academic use. [Here is a description of the different account limitations](https://docs.github.com/en/get-started/learning-about-github/githubs-products#github-free-for-user-accounts)
 
 1. Use a person account instead of a team "[Organization](https://docs.github.com/en/organizations)" with public or private repos. If you'd like more information about the differences in accounts, here is a nice [article](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts).
 2. Use a team "[Organization](https://docs.github.com/en/organizations)" with public repos
