@@ -4,6 +4,7 @@
   * Make sure to include: Table 2.  Project Specific Deliverables, Table 4.  Stretch Goals, Table 5.  Future Work
   * Make sure to remove instructional text.
   * Make sure to pick a license for your software
+  * Make sure to have someone proofread the entire document after it is completed.
 
 * Make sure to follow the template for the cover page. You need to include your client information along with your instructor information and acknowledgment area.
 
