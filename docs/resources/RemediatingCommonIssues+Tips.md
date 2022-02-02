@@ -39,3 +39,5 @@ Oftentimes clients are already busy with other duties which can make it hard to 
 * Write really clear emails. Here is a [TikTok on this topic](https://vm.tiktok.com/TTPdhcAeBK/) on this.
 
 * Followup all meetings with notes especially if there are action items for your client (i.e. you are waiting on them to get you something)via email. Make sure to include the meeting minutes on what was discussed and promised in the followup email. You can utilize the down-edited meet agenda format that you use for your team meetings if you like.  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fswatson-phillips.github.io%2FGT-CS-3312-WP%2Fresources%2FRemediatingCommonIssues%2BTips.html&count_bg=%23003057&title_bg=%23B3A369&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
