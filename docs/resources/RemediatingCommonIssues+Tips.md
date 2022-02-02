@@ -1,6 +1,8 @@
 # Remediating Common Issues + Tips
 ## Differing Levels Of Experience
-Having a centralized repository of "learning resources" (tutorials and HowTos) can help keep everyone on the same page. You can create a .md file in github to store links or a word document in Teams... whatever works. There are multiple ways of doing a lot of things and making sure everyone goes through the same tutorial can help sync things up ... AND you can create ZenHub tickets to make sure everyone does it (and create a paper trail).
+* Having a centralized repository of "learning resources" (tutorials and HowTos) can help keep everyone on the same page. You can create a .md file in github to store links or a word document in Teams... whatever works. There are multiple ways of doing a lot of things and making sure everyone goes through the same tutorial can help sync things up ... AND you can create ZenHub tickets to make sure everyone does it (and create a paper trail).
+
+* Consider using pull requests and having more experienced team members put in requests and less experienced members review those request in the beginning.
 
 ## Accountability and Task Delegation
 Having shorter more frequent meetings can really help with both accountability and task delegation. In industry, it is pretty common practice (in an agile environment) to have standup/scrum/round robin daily meetings. These meetings are usually 5 minute (not more than 10) meeting where each person gives their status. I've used the format of each person giving what they did yesterday (*past*), what they are doing today (*present*) and what they will be doing tomorrow (*future*) as a organize the meeting and keep it short. Everyone actually standing up also helps :-) It also helps to have the agile (ZenHub) board pulled up so you can quickly update and create new tickets as needed.
