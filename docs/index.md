@@ -4,6 +4,7 @@ Welcome to Instructor [Suzy Watson-Phillips'](https://github.com/swatson-phillip
 - [My Zenhub Board](https://app.zenhub.com/workspaces/cs-3312-sample-5e160808edee2184ecaa76c4/board?repos=232610911)
 - [Public Sample Repo](https://github.com/swatson-phillips/GT-CS-3312-WP)
 - [Links to Funnies](resources/funnies.html)
+- [Remediating Common Team Issues + Tips](resources/RemediatingCommonIssues+Tips.html)
 
 # Lesson Plans
 - [Lesson Plan Day 1](lessonPlans/D1-LessonPlan_Day1.html)
