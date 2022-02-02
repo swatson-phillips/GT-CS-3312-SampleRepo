@@ -26,3 +26,14 @@ Any change in requirements need to be documented.
 * If it was discussed and decided verbally in a meeting, follow up that meeting with meeting minutes sent by email to the team and client clearly outlining the change.
 * If it was an email exchange, then still follow up with and email that clearly details the change: "We are added XYZ story and removing QRS and TUV stories per Mrs. Phillips' request."
 * In both cases, make sure to then update your iteration plan which can be included in the above email correspondence.
+
+## Busy client
+Oftentimes clients are already busy with other duties which can make it hard to schedule time with them and get information. Here are some strategies that can help:
+
+* Schedule all meetings for the semester at the first meeting. Go into the meeting with suggested dates/time that work or an app setup to take in availability for the dates you'd like to meet. After the dates and times are decided, make sure to send them an Outlook meeting invitation with location information (in-person or virtual).
+
+* Ask if there is someone else that that would be a good contact for the project. Sometimes this can also be helpful if there is a more technical person that can get you any you might need.
+
+* Write really clear emails. Here is a [TikTok on this topic](https://vm.tiktok.com/TTPdhcAeBK/) on this.
+
+* Followup all meetings with notes especially if there are action items for your client (i.e. you are waiting on them to get you something)via email. Make sure to include the meeting minutes on what was discussed and promised in the followup email. You can utilize the down-edited meet agenda format that you use for your team meetings if you like.  
