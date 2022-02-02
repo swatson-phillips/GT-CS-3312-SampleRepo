@@ -34,7 +34,7 @@ Make sure to include include:
 
 # Iteration Plan Comments
 ## Overall
-* Overall nice job! 
+* Overall nice job!
 * Overall very nice job!
 * Overall very nice job! I like your user stories, goals and your scheduling.
 * Overall very nice job! There are some in-line annotation comments that you should review but it looks like you've done a good job with developing your user stories, sprint goals and scheduling.
@@ -43,19 +43,20 @@ Make sure to include include:
 
 ## Formatting
 * Resize columns so there is more room for your user stories; you can shrink the Sprint, Weeks and Goals columns considerably.
+
 * There are some font changes probably from copy and paste. Make sure the your font is consistent and any changes are for a reason (e.g. monospaced font for code vs prose).
- 
- ## Scheduling
+
+## Scheduling
 * Your plan is a bit optimistic for a 5 person team but you can adjust as need for the scheduled iteration plan updates (see living schedule). Make sure to convey to your client that this is an optimistic plan and there may be some schedule slip. You may also want to have the conversation about story priority and make sure those less important stories are prioritize appropriately.
 
 * Your Sprints end on Sunday, You should probably make the dates of delivery the Monday after.
 
-* Your plan seems a bit light overall for a 5 person team. It may be that some of your stories need to be broken down into sub-stories. For more complex stories or stories that have an "and" in them, consider breaking them down. For a 5 person team, the goal is to have 3-5 stories in Sprints 2-4 and 1-2 in Sprints 1 and 5; we expect more if there are more team members. 
+* Your plan seems a bit light overall for a 5 person team. It may be that some of your stories need to be broken down into sub-stories. For more complex stories or stories that have an "and" in them, consider breaking them down. For a 5 person team, the goal is to have 3-5 stories in Sprints 2-4 and 1-2 in Sprints 1 and 5; we expect more if there are more team members. c
 
 ## Stories
-* I'm am a bit concerned with your iteration plan and the features listed and their granularity and the prospective. 
-* Consider writing your features as user stories. 
-* I don't believe the granularity of some of your features is fine enough for adequately documenting what will be accomplished in each of the Sprints. Consider breaking the features into smaller features and/or include alternate paths/scenarios. 
+* I'm am a bit concerned with your iteration plan and the features listed and their granularity and the prospective.
+* Consider writing your features as user stories.
+* I don't believe the granularity of some of your features is fine enough for adequately documenting what will be accomplished in each of the Sprints. Consider breaking the features into smaller features and/or include alternate paths/scenarios.
 * Also make sure you are being specific/clear and not vague in your language (i.e. what does expand actually include).
 
 * Other than Sprint 5 being too light, (see note below), you work distribution looks good and your user stories are on the right track. Your Sprint goals seem to align well with your stories.
@@ -65,8 +66,9 @@ Make sure to include include:
 * Your Sprint 5 user story is not an actual feature. Just because you write something in the user story format, doesn't make it a valid feature user story ;-) Consider moving a feature from the previous Sprint down. It is perfectly fine to complete features early.
 
 * You need to be developing features (user stories) in every Sprint including 4 and 5. I specifically said not to have a testing/bug fixes Sprint(s) in lecture.
+
 * This document is for the client and should clearly present the value to the product that is being delivered in each Sprint in the form of feature development. QA and bug fixes should be being done throughout the semester; test as you go.
- 
+
 * You are missing the "so that I" business benefit from some of your stories, make sure to include that to be clear about why you will be working on the story.
 * Make sure to include the "so that I" part of the user story to illustrate the benefit to the client/business.
 
@@ -82,16 +84,14 @@ Make sure to include include:
 
 * Each feature/story should be testable and demo-able.
 
-
 ## Goals
 * Consider making your goals more concise. "Basic user account creation"...
-* The goal should be related to the user stories, please change to reflect the focus of the stories listed here. 
+* The goal should be related to the user stories, please change to reflect the focus of the stories listed here.
 * You should be delivering value in the form of features/stories in each Sprint including the last.
 
 ## Other
-* I would be happy to meet with the team to discuss and you may re-submit with corrections by 2/2.
+* I would be happy to meet with the team to discuss and you may re-submit with corrections by 2/2 for review.
 
 * See comments on the document.
 * A few in-line annotations on the document, please review them.
 * See in-line annotated comments also.
-
