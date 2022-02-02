@@ -16,5 +16,13 @@ Your team may not meet daily (even though it's a really go idea), but having *mo
 
 At a ***minimum***, you should have an item in your agenda for your weekly meetings to discuss and update ZenHub.
 
-# Tough Problems
+## Tough Technology Problems
 What you're doing can be really hard and you are certain to face problems during the course of the project. We give you a number or periods of time for you to work independently (as a team) to get work done and solve problems. During these times when we aren't meeting as a class, you should be meeting as a team either virtually or in person. We encourage you to use this time not necessarily for project planning, but as a **working session** so that you can problem solve. I'm personally not a huge fan of "pair programming" but I have experience the value in having another developer nearby to problem solve with. I've often shared an office with 1 or more other developers and found it really beneficial.
+
+## Indecisive Client
+Often we've seen indecisive client in this course. The client that isn't sure of what they want OR wants to change requirements later in the semester. While a part of the agile methodology is to welcome changing requirements (from the client), it is important to be clear and honest about what the tradeoff might be in the MVP if you add or change a feature/requirement. The later in the semester that the change is requested, the more is at stake for the project as a whole; in Sprints 4-5 it could jeopardize the whole project. **At no point should you agree to a "let's see how it goes and decided later."** This leaves the door open for the client to make the request later and leave you in a bad position. Instead make a decision during the meeting and document it!
+
+Any change in requirements need to be documented.
+* If it was discussed and decided verbally in a meeting, follow up that meeting with meeting minutes sent by email to the team and client clearly outlining the change.
+* If it was an email exchange, then still follow up with and email that clearly details the change: "We are added XYZ story and removing QRS and TUV stories per Mrs. Phillips' request."
+* In both cases, make sure to then update your iteration plan which can be included in the above email correspondence.
