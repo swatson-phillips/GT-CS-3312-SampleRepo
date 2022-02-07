@@ -1,6 +1,8 @@
 # Sample Project name
 Information about what your project is about
 
+[Licences under GNUv3 ](LICENSE.md)
+
 ## Release Notes
 ### Version 0.2.0
 
