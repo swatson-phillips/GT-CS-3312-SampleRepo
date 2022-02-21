@@ -1,3 +1,11 @@
+* Make sure to define all acronyms once before using them regardless of if they are defined in the terms. The terms are supplementary, not in the chronology of the document.
+
+* Does "app" mean web-app, mobile app, something else?
+
+* Terms should be alphabetized.
+
+* Also, make sure that you use all of the terms within your document that you list in your terms.
+
 Technical and domain terminology looks good, continue to build out terms and acronyms as needed.
 
 Very light in both technical and domain terms, continue to build out terms and acronyms as needed. This will not result in Mature score.
