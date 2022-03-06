@@ -11,7 +11,7 @@ Welcome to Instructor [Suzy Watson-Phillips'](https://github.com/swatson-phillip
 - [Lesson Plan - Team Setup - Organization and Meetings](lessonPlans/D2-LessonPlan_TeamSetup.html)
 - [Lesson Plan - Project Management and Demo Videos](lessonPlans/D3-LessonPlan-ProjectManagement-VideoDemo.html)
 - [Lesson Plan - Detailed Design Doc. and ReadMes](lessonPlans/D4-LessonPlan-DetailedDesignDoc_ReadMe.html)
-- [Lesson Plan - Code Reviews](LessonPlans/D8-LessonPlan-CodeReview.html)
+- [Lesson Plan - Code Reviews](lessonPlans/D8-LessonPlan-CodeReview.html)
 
 # HowTos and Instructions
 - [Project Management - Tracking Notes](notes/ProjectManagement-Tracking_Notes.html)
