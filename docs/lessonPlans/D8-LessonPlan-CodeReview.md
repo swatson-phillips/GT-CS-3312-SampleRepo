@@ -1,6 +1,8 @@
 # Topics
 
 ## Code Review Assignment
+* [Canva Presentation](https://www.canva.com/design/DAE6Nzb0e_U/PBmoDiPl9KKEBhWvouV8PA/view?utm_content=DAE6Nzb0e_U&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+* See Canvas for assignment details and dates
 
 # Readings
 * [Code Reviews at Google are lightweight and fast](https://www.michaelagreiler.com/code-reviews-at-google/)
