@@ -11,6 +11,9 @@
 - Your Dynamic System Architecture is incomplete. You should include some prose that describes the scenario that you are illustrating in your diagram.
 - Your Dynamic System Architecture has a lot going on, consider simplifying to the major layer/components in your static design.
 - Your static system Architecture diagram is a bit difficult to read, consider re-organizing the components so that the interaction is more clear.
+- You need to make sure you are discussing in prose each of the main components shown in the static architecture diagram.
+- You need to make sure you are discussing in prose each of the scenarios shown in the static architecture diagram.
+- Make sure the syntax is correct for your SSD. hint: there is a symbol for an actor on the system.
 
 - ** Note that this is not a guarantee of this grade on the final completed Detailed Design Document **
 
@@ -18,9 +21,10 @@
 - The static and dynamic elements should be under the "System Architecture" section not stand on their own.
 - You may consider positioning your figures at either the top or bottom of the page for document design and readability.
 - You do not indent paragraphs in technical documents. Instead you separate paragraphs with newlines/space.
-- Consider using references to the figure. Let me know if you’d like help with this.
+- Consider using references to the figure instead of hard coded plain text. Let me know if you’d like help with this.
 
 
 # Diagramming
-- You may want to indicate what the direction of the arrows in your diagram mean. Dependency? Data Flow? (Hint: the static should be dependency and dynamic should be flow/behavior) Does the X omponent "know about" the Y component? Or the other way around?
+- You may want to indicate what the direction of the arrows in your diagram mean. Dependency? Data Flow? (Hint: the static should be dependency and dynamic should be flow/behavior) Does the X component "knows about" the Y component? Or the other way around?
 - Make sure that you are using corect syntax for your SSD.
+- Your  static arch. diagram is rudimentary and a bit unclear because of the formatting; it should highlight your chosen architecture and technologies. Please see me to discuss if you are unclear.
