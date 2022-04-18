@@ -15,3 +15,13 @@ Welcome to Instructor [Suzy Watson-Phillips'](https://github.com/swatson-phillip
 
 # HowTos and Instructions
 - [Project Management - Tracking Notes](notes/ProjectManagement-Tracking_Notes.html)
+
+# Assignment Feedback Notes
+- [Github/Zenhub Setup](feedback/Github-Zenhub_feedback.txt)
+- [Iteration Plan Feedback](feedback/IterationPlanFeedback.html)
+- [Detailed Design - Terminology](feedback/DD-Terminology-early-feedback.txt)
+- [Detailed Design - System Architecture](feedback/DD-System-Architecture_feedback.html)
+- [Detailed Design - Component and Data Designs](feedback/DD-Component-Data-Design_feedback.html)
+- [Release Notes Feedback](feedback/ReleaseNotes_Feedback.html)
+- [Project Tracking Feedback](feedback/Tracking_feedback.html)
+- [Code Review Letter Feedback](feedback/CodeReviewLetter_feedback.html)
