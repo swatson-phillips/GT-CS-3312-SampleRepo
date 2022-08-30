@@ -39,6 +39,6 @@
 * Alred, “Formal Reports” (196-218)
 
 # Upcoming Assignments
-* Gallup Strengths assessment before the ETD class.[Gallup Strengths assessment](http://www.strengthsquest.com/) See email with instructions on using the code.
+* Gallup Strengths assessment before the ETD class. [Gallup Strengths assessment](http://www.strengthsquest.com/) See email with instructions on using the code.
 * (down edited) Meeting Agenda - Week 3
 * Detailed Design - Front Matter / Introduction + Terminology
