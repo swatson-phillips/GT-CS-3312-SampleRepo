@@ -13,6 +13,7 @@ Welcome to Instructor [Suzy Watson-Phillips'](https://github.com/swatson-phillip
 - [Lesson Plan - MS Teams and Zenhub part 2](lessonPlans/D2.5-LessonPlan_Teams_ZenHub-p2.html)
 - [Lesson Plan - Detailed Design Doc. and ReadMes](lessonPlans/D4-LessonPlan-DetailedDesignDoc_ReadMe.html)
 - [Lesson Plan - Code Reviews](lessonPlans/D8-LessonPlan-CodeReview.html)
+- [Lesson Plan - DD - UI and Peer Review](lessonPlans/DD_UI+PeerReview.html)
 
 # HowTos and Instructions
 - [Project Management - Tracking Notes](notes/ProjectManagement-Tracking_Notes.html)
