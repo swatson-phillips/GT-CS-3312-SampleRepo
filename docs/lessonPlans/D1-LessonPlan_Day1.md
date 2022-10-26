@@ -1,7 +1,7 @@
 # Topics
 * Course overview
-    - syllabus
-    - core objectives
+    - Syllabus
+    - Core objectives
         * Demonstrate the ability to **analyze customer requirements** and produce a **detailed design** that complies with accepted design principles and patterns.
         * Given a detailed design, document that design using **appropriate notations such as UML**.
         * Prepare and **orally present details of your project** and justify the decisions and facts in your presentation during question and answer periods.
@@ -12,9 +12,10 @@
 * Introduce Sprints layout (course Snapshot): agile - 5 x 3 weeks sprints
 * Overview of Assignments (course Snapshot and assignments by week)
 * Project management
-    - MS Teams Setup
-    - ~~Meeting Agenda~~ (moved to Wed.)
-    - Client Charter Updates (see Canvas assignment for key changes)
+    - MS Teams Setup (moved to Wed.)
+    - Meeting Agenda 
+    - Team Charter
+    - Client Charter Updates (see Canvas assignment for key changes) (moved to Wed.)
 * Email your client to setup a meeting
     - Do this this week!
     - Make sure to have an alternate method of contact (i.e. phone number, alternate contact person, etc)
