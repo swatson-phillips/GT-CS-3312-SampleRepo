@@ -1,22 +1,23 @@
 # General
 - What kind of application is it? Web application? Mobile application? Command line application? This should be in one of the first paragraphs.
 - What kind of architecture are you using and why? How does this help you uphold good design principles? Tell me how your design applies good design principles.
+- You haven't given a good rationale for the design decisions that you made for your overall architecture and design; this is different than the technologies that are chosen.
 - You've given good rationale for the technologies that you are using but you still should give rationale for your overall architecture and design which is different.
 - What kind of architecture are you using and why? How does this help you uphold good design principles?
 - Tell me how you are applying good design principles not just that you kept them in mind.
 - Make sure that you are upholding conceptual integrity between your static and dynamic diagrams.
 - You are lacking conceptual integrity between your static and dynamic designs. I cannot clearly see how the components of your static design are show in the dynamic design.
 - You are lacking conceptual integrity between your prose and your diagram in your static system architecture. Make sure that you are using the same terms in your diagram and prose.
-- Overall looks good! There are a few in-line comments and notes below to consider. 
+- Overall looks good! There are a few in-line comments and notes below to consider.
 - The User/User input is not a part of your system and should not be included as a part of your system; it should only provide input INTO the system.
 - Your Dynamic System Architecture is incomplete. You should include some prose that describes the scenario that you are illustrating in your diagram.
 - Your Dynamic System Architecture has a lot going on, consider simplifying to the major layer/components in your static design.
 - Your Static System Architecture diagram is a bit difficult to read, consider re-organizing the components so that the interaction is more clear.
 - You need to make sure you are discussing in prose each of the main components shown in the static architecture diagram.
 - You need to make sure you are discussing in prose each of the scenarios shown in the dynamic architecture diagram.
-- You should probably include links to the technologies either in-line or in an appendix. 
+- You should probably include links to the technologies either in-line or in an appendix.
 - Make sure to give some information about about the scenario(s) that you are illustrating. What user story is it and why?
-- Make sure that your prose matches what is in the diagram. 
+- Make sure that your prose matches what is in the diagram.
 - ** Note that this is not a guarantee of this grade on the final completed Detailed Design Document **
 - Nice start! Please see my in-line comments along with below.
 
