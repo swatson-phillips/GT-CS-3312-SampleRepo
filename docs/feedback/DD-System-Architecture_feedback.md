@@ -19,7 +19,7 @@
 - Make sure to give some information about about the scenario(s) that you are illustrating. What user story is it and why?
 - Make sure that your prose matches what is in the diagram.
 - ** Note that this is not a guarantee of this grade on the final completed Detailed Design Document **
-- Nice start! Please see my in-line comments along with below.
+- Nice start! Please see my in-line comments along with these.
 
 # Document formating
 - The static and dynamic elements should be under the "System Architecture" section not stand on their own.
