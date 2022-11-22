@@ -20,6 +20,7 @@
 - Make sure that your prose matches what is in the diagram.
 - ** Note that this is not a guarantee of this grade on the final completed Detailed Design Document **
 - Nice start! Please see my in-line comments along with these.
+- This is a good start but think critically about the diagrams and what you are trying to convey with they different views. Please also see the in-line comments in the document itself.
 
 # Document formating
 - The static and dynamic elements should be under the "System Architecture" section not stand on their own.
