@@ -12,10 +12,8 @@
 * Introduce Sprints layout (course Snapshot): agile - 5 x 3 weeks sprints
 * Overview of Assignments (course Snapshot and assignments by week)
 * Project management
-    - MS Teams Setup (moved to Wed.)
     - Meeting Agenda 
     - Team Charter
-    - Client Charter Updates (see Canvas assignment for key changes) (moved to Wed.)
 * Email your client to setup a meeting
     - Do this this week!
     - Make sure to have an alternate method of contact (i.e. phone number, alternate contact person, etc)
@@ -36,7 +34,7 @@
 * Course Snapshot page (Canvas)
 
 # Things due this week
-See Canvas assignments for dates (usually Sunday at 11:59pm)
+See Canvas assignments for dates (usually Monday at 11:59pm)
 * Help Wanted post (by Tuesday @11:59pm)
 * M.S. Teams Setup
 * Meeting Agenda
