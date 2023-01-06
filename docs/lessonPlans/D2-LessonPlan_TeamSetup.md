@@ -1,6 +1,8 @@
 # Topics
 * Organizing Teams
-* Team Charter
+* Project management
+    - MS Teams Setup (moved to Wed.)
+    - Client Charter Updates (see Canvas assignment for key changes)
 * Team management (Conflict Management)
 * Meeting Agendas Assignments
 
@@ -9,7 +11,7 @@
 * Anderson_Team_Roles.pdf
 
 # Upcoming Assignments
-See Canvas assignments for dates (usually Sunday at 11:59pm)
+See Canvas assignments for dates (usually Monday at 11:59pm)
 * M.S. Teams Setup (this Sunday)
 * Meeting Agenda - week 1 (this Sunday, you can turn in early)
 
