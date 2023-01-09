@@ -30,7 +30,7 @@
     * Click "Start" and "Send an Envelope"
     * Click "Upload" and select the client charter
     * Fill in the signers: your client, yourself, and your instructor
-    * Set the signing order so that it is you, then your client, then your instructor (Suzy.watson-phillips@cc.gatech.edu)
+    * Set the signing order so that it is you, then your client, then your instructor (swatson38@cc.gatech.edu)
     * Click next
     * Drag over the appropriate fields
     * Make sure to preview a your client!
@@ -56,7 +56,7 @@ Let's see a demo! (video)
     * Discuss with your client if they are ok with a public repository
     * New Repo: Profile -> Repositories -> New (pick a meaningful short name and include team number)
     * What to track? Whatever works well for your team. Consider tracking **ALL  project tasks** even those that are not software based.
-    * Check out my page on [Using ZenHub for free for this class](https://github.com/swatson-phillips/GT-CS-3312-WP/blob/master/HowTos/Using%20Github%20and%20ZenHub%20for%20CS%203312.md)
+    * Check out my page on [Using ZenHub for free for this class](https://swatson-phillips.github.io/GT-CS-3312-WP/notes/Using%20Github%20and%20ZenHub%20for%20CS%203312.html)
 
 *  Let's walk through a ZenHub board and Setup (video)
 
@@ -70,6 +70,7 @@ Let's see a demo! (video)
 * Agile - Planning Resources Page (Canvas)
 * [Getting Started with ZenHub](https://help.zenhub.com/support/solutions/folders/43000553376)
 * Client Charter Template (Canvas)
+* [Using ZenHub for free for this class](https://swatson-phillips.github.io/GT-CS-3312-WP/notes/Using%20Github%20and%20ZenHub%20for%20CS%203312.html)
 
 # Upcoming Assignments
 * GitHub/Zenhub Setup
