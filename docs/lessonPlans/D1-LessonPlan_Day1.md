@@ -11,15 +11,9 @@
 
 * Introduce Sprints layout (course Snapshot): agile - 5 x 3 weeks sprints
 * Overview of Assignments (course Snapshot and assignments by week)
-* Project management
-    - Meeting Agenda 
-    - Team Charter
-* Email your client to setup a meeting
-    - Do this this week!
-    - Make sure to have an alternate method of contact (i.e. phone number, alternate contact person, etc)
-    - Make sure to respond to client emails within 24 hrs
-    - If there isn't a response from your client in 24-48 hr, email a followup. After 2 followups, try a different mode of communication.
+* Team meeting
 * Team organization
+    - Team pitches
     - help wanted post via Ed
     - include:
         - summary of project (technologies if you know)
@@ -28,6 +22,15 @@
         - current number of team members
         - areas that you could use help in (front end, DB, back end, UI, specific language)
     - If you do not have a team, review the posts before the next class and pick a team you would like to join and reply to that team's posts
+
+* Project management
+    - Meeting Agenda 
+    - Team Charter
+* Email your client to setup a meeting
+    - Do this this week!
+    - Make sure to have an alternate method of contact (i.e. phone number, alternate contact person, etc)
+    - Make sure to respond to client emails within 24 hrs
+    - If there isn't a response from your client in 24-48 hr, email a followup. After 2 followups, try a different mode of communication.
 
 # Resources
 * Syllabus (Canvas)
